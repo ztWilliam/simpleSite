@@ -4,6 +4,7 @@ A simple site framework for products show.
 The features including:
 Frontend:
 1> Home page
+
 2> Product list
 3> Product detail
 4> Login
