@@ -3,19 +3,19 @@ A simple site framework for products show.
 
 The features including:
 Frontend:
-> Home page
-> Product list
-> Product detail
-> Login
-> Feedback
-> About us
+1> Home page
+2> Product list
+3> Product detail
+4> Login
+5> Feedback
+6> About us
 
 Backend:
-> Homepage configuration
-> Product type configuration
-> Product administration
-> Feedback list
-> About us configuration
+1> Homepage configuration
+2> Product type configuration
+3> Product administration
+4> Feedback list
+5> About us configuration
 
 Other:
-> Email auto-sending
+1> Email auto-sending
